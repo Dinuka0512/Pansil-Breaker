@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pb1.tringledo.com/sitemap.xml
